@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Emir 👋
+# Hi, I'm Emir 
 
 **4th Year Computer Engineering Student | Tech Explorer**
 
