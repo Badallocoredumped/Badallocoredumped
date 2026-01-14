@@ -15,7 +15,7 @@ Passionate about **clean code**, **automation**, and **learning new technologies
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Badallocoredumped&layout=compact&theme=radical)
+![GitHub Stats](https://github-stats.vercel.app/api?username=Badallocoredumped&theme=radical&show_icons=true&include_all_commits=true)
 
 ---
 
